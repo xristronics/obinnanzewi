@@ -18,9 +18,17 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>My Certifications</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+•	Leading Strategic Innovation in Organizations Coursera online MOOCs.
+•	Risk and Opportunity: Managing Risk for Development Coursera online MOOCs.
+•	Cisco Certified Network Associate CCNA (ID: CSCO12317615).
+•	ITIL Foundation V3. 
+•	Nigerian Institute of Management NIM (Member).
+•	CyberArk Privileged Access Control Security Certificate of Completion
+•	ICSI | CNSS Certified Network Security Specialist Certificate of completion
+•	(ISC)2 Utilizing Big Data Certificate of completion
+•	MSc. Cyber Security Teesside University Middleborough United Kingdom Expected Graduation September 2025
+•	Certified in Cyber Security (CC) ISC2
+
 - <b>Python</b>
 <h2>📺 Popular YouTube Videos</h2>
 
