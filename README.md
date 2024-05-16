@@ -33,27 +33,68 @@
 
 
 
+- 🌱 I’m currently learning ...
+<b> Daily Python Coding 100 days</b>
+<b>powerShell </b>
+<b>Malware Analysis  </b>
+<b>Threat Hunting and Malware Analysis </b>
 
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>📺 Cyber Security videos i Have passion watiching anytime any day on YouTube </h2>
+
+- [The Five Most Dangerous New Attack Techniques] https://www.youtube.com/watch?v=MLgsjUWFHws&ab_channel=RSAConference
+- [Social Engineering: The Science of Human Hacking with Chris Hadnagy] https://www.youtube.com/watch?v=XRmzAjZnMQ8
+- [Keren Elazari, Cybersecurity Speaker, The Age of Cyber Warfare] https://www.youtube.com/watch?v=Wn6g7tSMjmk
+- [A View from the Front Lines of Cybersecurity] https://www.youtube.com/watch?v=7EH7ehAY3_w
+- [Former hacker Keren Elazari: "The world has been in a cold cyber-war for the past 7 years"] https://www.youtube.com/watch?v=Vi_ZRAbzWYI
+- [The Five Most Dangerous New Attack Techniques and How to Counter Them]https://www.youtube.com/watch?v=sibeN4U1fOg
+- [           ]
+
+
+
+- [           ]
+- [           ]
+- [           ]
+- [           ]
+- [           ]
+
+Keren Elazari - The Future Of Cyber Security | Talks For Good
+https://www.youtube.com/watch?v=J1OQFKFWIss
+
+
+The Five Most Dangerous New Attack Techniques, and What's Coming Next
+https://www.youtube.com/watch?v=aoIPIIB4xlA
+
+
+
+
+
+
+
+
+
+<h2>📺 BrightTalk Videos</h2>
+
+
+
+
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="obinnanzewi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="obinnanzewi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="obinnanzewi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="obinnanzewi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,7 +102,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
