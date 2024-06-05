@@ -40,6 +40,9 @@
 <b>Threat Hunting and Malware Analysis </b>
 
 
+ 🌱 I’m currently learning ...
+<b>Am a voracious learner and I love to learn new things due to the daily evolving nature of  technology, cyber security remains at the forefront and very essential to 
+remain updated to with the latest cyber security trends, here you will find cyber security video I constantly listened to</b>
 
 
 <h2>📺 Cyber Security videos i Have passion watiching anytime any day on YouTube </h2>
