@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=aoIPIIB4xlA
 
 
 
-<h2>📺 BrightTalk Videos</h2>
+<h2>📺 BrightTalk Videos watched and Ceritificate of Attendance</h2>
 
 
 
